@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/user/Ruiz/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/user/Ruiz/app/build/intermediates/pre-dexed/debug/classes-f3e2494c447c100e7158336f46e162a4763d5755.jar" />
+    </item>
+    <item
+        jar="/home/user/Ruiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/user/Ruiz/app/build/intermediates/pre-dexed/debug/classes-e04ec6ea21c4b4511075b5e1f2b5e886d822e46d.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/user/Ruiz/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6-63c21a5492a8ac4629fda8a10a015f62d45bf4ce.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/home/user/Ruiz/app/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-5c7ac0c5f5e3592dc5f637ee5d83314ab44fc5d7.jar" />
+    </item>
+    <item
+        jar="/home/user/Ruiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/user/Ruiz/app/build/intermediates/pre-dexed/debug/classes-16762c8d68e230b0b5031e0498725a23e82cead8.jar" />
+    </item>
+    <item
+        jar="/home/user/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/user/Ruiz/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-4fd5bb15bfc2a29f5592f229e80a4ff7a0f0863b.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/user/Ruiz/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9-b54ed515dab7eb29319ef97339b29dab6ba1fbf5.jar" />
+    </item>
+    <item
+        jar="/home/user/Ruiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/user/Ruiz/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-6bd21a46b41c3bfaedb7595910ea8f9151583a09.jar" />
+    </item>
+
+</items>
